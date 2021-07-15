@@ -1,0 +1,6 @@
+framework module Pods_______Tests {
+  umbrella header "Pods-图片加载优化Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
